@@ -39,7 +39,7 @@ This portfolio showcases self-initiated projects created to demonstrate my busin
 ---
 
 ## 📄 Resume
-👉 [Download Resume](resume/MayThu_BA_Resume.pdf)
+👉 [Download Resume](MayThu_BA_Resume.pdf)
 
 ---
 
