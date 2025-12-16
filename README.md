@@ -1,28 +1,48 @@
-## 📊 Project: Market Basket Analysis for Retail Transactions
+# May Thu – Entry-Level Business Analyst Portfolio
 
-**Role:** Entry-Level Business Analyst (Practice Project)  
-**Dataset:** Retail Basket Analysis Dataset (Public)
+## 👋 About Me
+I am an Information Technology graduate aspiring to begin my career as an Entry-Level / Junior Business Analyst. I am interested in analyzing business problems, working with data, and supporting decision-making through clear insights and structured analysis.
 
-### Business Objective
-To identify frequently purchased product combinations and provide recommendations for product bundling and promotions.
+This portfolio showcases self-initiated and academic-style projects created to demonstrate my Business Analysis skills, analytical thinking, and technical foundation.
 
-### Business Questions
-- Which products are most frequently purchased together?
-- What product combinations could be bundled?
-- How can these insights support marketing and sales strategies?
+---
 
-### Tools Used
-- SQL (basic analysis)
-- Excel / Google Sheets (optional)
+## 🧠 Core Skills
+- Business analysis fundamentals
+- Requirements analysis & documentation
+- Data analysis using SQL
+- Database concepts
+- Analytical and critical thinking
+- Translating data into business insights
 
-### Analysis Approach
-- Analyzed transaction-level data
-- Identified frequent product combinations
-- Interpreted patterns from a business perspective
+---
 
-### Key Insights
-(To be added)
+## 🛠 Tools
+- SQL (SQLite)
+- GitHub
+- Microsoft Excel
+- Documentation & reporting
 
-### Business Recommendations
-(To be added)
+---
 
+## 📂 Projects
+
+### 📊 Market Basket Analysis
+**Independent Data & Business Analysis Project**
+
+- Analyzed transaction data to identify top-selling products and frequent product combinations
+- Used SQL to extract insights supporting cross-selling strategies
+- Focused on business interpretation rather than only technical output
+
+➡️ [View Project](projects/market-basket-analysis)
+
+---
+
+## 📄 Resume
+➡️ [Download Resume](resume/MayThu_BA_Resume.pdf)
+
+---
+
+## 📬 Contact
+- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/yourprofile
