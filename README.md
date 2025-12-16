@@ -1,19 +1,19 @@
 # May Thu – Entry-Level Business Analyst Portfolio
 
 ## 👋 About Me
-I am an Information Technology graduate aspiring to begin my career as an Entry-Level / Junior Business Analyst. I am interested in analyzing business problems, working with data, and supporting decision-making through clear insights and structured analysis.
+I am an Information Technology graduate seeking an entry-level or junior Business Analyst role. I am passionate about understanding business problems, analyzing data, and translating insights into practical recommendations that support decision-making.
 
-This portfolio showcases self-initiated and academic-style projects created to demonstrate my Business Analysis skills, analytical thinking, and technical foundation.
+This portfolio showcases self-initiated projects created to demonstrate my business analysis mindset, analytical skills, and technical foundation, despite having no formal industry experience yet.
 
 ---
 
 ## 🧠 Core Skills
 - Business analysis fundamentals
-- Requirements analysis & documentation
+- Problem analysis & structured thinking
 - Data analysis using SQL
-- Database concepts
-- Analytical and critical thinking
+- Requirements understanding
 - Translating data into business insights
+- Documentation & reporting
 
 ---
 
@@ -27,22 +27,22 @@ This portfolio showcases self-initiated and academic-style projects created to d
 
 ## 📂 Projects
 
-### 📊 Market Basket Analysis
+### 📊 Market Basket Analysis  
 **Independent Data & Business Analysis Project**
 
-- Analyzed transaction data to identify top-selling products and frequent product combinations
-- Used SQL to extract insights supporting cross-selling strategies
+- Analyzed retail transaction data to identify top-selling products
+- Identified frequently purchased product combinations to support cross-selling strategies
 - Focused on business interpretation rather than only technical output
 
-➡️ [View Project](projects/market-basket-analysis)
+👉 [View Project](projects/market-basket-analysis)
 
 ---
 
 ## 📄 Resume
-➡️ [Download Resume](resume/MayThu_BA_Resume.pdf)
+👉 [Download Resume](resume/MayThu_BA_Resume.pdf)
 
 ---
 
 ## 📬 Contact
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: mayvienbusiness@email.com  
+- LinkedIn: www.linkedin.com/in/maythu-870314309
