@@ -1,19 +1,18 @@
 # May Thu – Entry-Level Business Analyst Portfolio
 
 ## 👋 About Me
-I am an Information Technology graduate seeking an entry-level or junior Business Analyst role. I am passionate about understanding business problems, analyzing data, and translating insights into practical recommendations that support decision-making.
-
-This portfolio showcases self-initiated projects created to demonstrate my business analysis mindset, analytical skills, and technical foundation, despite having no formal industry experience yet.
+I am an Information Technology graduate pursuing an entry-level / junior Business Analyst role. I am interested in understanding business problems, analyzing data, and translating insights into clear, actionable recommendations that support decision-making.
+This portfolio showcases self-initiated projects that demonstrate my business analysis mindset, analytical thinking, and ability to work with data using practical tools such as Excel and SQL.
 
 ---
 
 ## 🧠 Core Skills
-- Business analysis fundamentals
-- Problem analysis & structured thinking
-- Data analysis using SQL
+- Business problem framing & structured thinking
+- Data analysis & interpretation
+- Business feature engineering (derived metrics & segmentation)
 - Requirements understanding
 - Translating data into business insights
-- Documentation & reporting
+- Stakeholder-friendly documentation & reporting
 
 ---
 
@@ -27,7 +26,17 @@ This portfolio showcases self-initiated projects created to demonstrate my busin
 
 ## 📂 Projects
 
-### 📊 Market Basket Analysis  
+### 📊 Agoda Urgency Message Analysis (Excel)
+**Business & Pricing Analysis Project**
+
+- Analyzed ~75,000 hotel booking records across 5 cities to understand how booking behavior and pricing change as check-in approaches
+- Prepared and transformed raw data through **business feature engineering** (advance booking window, length of stay, revenue, segmentation)
+- Used pivot tables and dashboards to identify **urgency-driven pricing patterns**
+- Delivered business recommendations on **when and where urgency messages should be applied**, with a proposed **A/B testing strategy**
+
+👉 [View Project]
+
+### 🛒 Market Basket Analysis  
 **Independent Data & Business Analysis Project**
 
 - Analyzed retail transaction data to identify top-selling products
