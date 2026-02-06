@@ -26,15 +26,15 @@ This portfolio showcases self-initiated projects that demonstrate my business an
 
 ## 📂 Projects
 
-### 📊 Agoda Urgency Message Analysis (Excel)
+### 📊 **Agoda Urgency Message Analysis (Excel)**  
 **Business & Pricing Analysis Project**
 
-- Analyzed ~75,000 hotel booking records across 5 cities to understand how booking behavior and pricing change as check-in approaches
-- Prepared and transformed raw data through **business feature engineering** (advance booking window, length of stay, revenue, segmentation)
-- Used pivot tables and dashboards to identify **urgency-driven pricing patterns**
-- Delivered business recommendations on **when and where urgency messages should be applied**, with a proposed **A/B testing strategy**
+- Analyzed ~75,000 hotel booking records across 5 cities to understand booking behavior and pricing as check-in approaches  
+- Prepared and transformed raw data through business feature engineering (booking window, length of stay, revenue, segmentation)  
+- Used pivot tables and dashboards to identify urgency-driven pricing patterns  
+- Delivered business recommendations with a proposed A/B testing strategy  
 
-👉 [View Project]
+👉 [View Project](projects/agoda-urgency-message-analysis)
 
 ### 🛒 Market Basket Analysis  
 **Independent Data & Business Analysis Project**
