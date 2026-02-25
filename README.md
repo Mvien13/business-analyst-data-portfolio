@@ -47,7 +47,7 @@ This portfolio showcases self-initiated projects that demonstrate my business an
 
 ---
 
-## 🍷 Wine Quality Driver Analysis
+## 🍷 Wine Quality Analysis
 **Tools:** Python, Pandas, Seaborn, Regression
 
 Analyzed red wine chemical properties to identify key drivers influencing product quality ratings and provide actionable production insights.
