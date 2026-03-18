@@ -1,8 +1,9 @@
 # May Thu – Entry-Level Business Analyst Portfolio
 
 ## 👋 About Me
-I am an Information Technology graduate pursuing an entry-level / junior Business Analyst role. I am interested in understanding business problems, analyzing data, and translating insights into clear, actionable recommendations that support decision-making.
-This portfolio showcases self-initiated projects that demonstrate my business analysis mindset, analytical thinking, and ability to work with data using practical tools such as Excel and SQL.
+I am an Information Technology graduate currently seeking an entry-level / junior Business Analyst or Data Analyst role. I am interested in understanding business problems, working with data, and supporting decision-making through clear and practical insights.
+I am continuously learning and improving my skills in tools such as Excel,Mysql, Power BI and Python, and I am eager to gain hands-on experience in a professional environment. I am open to opportunities where I can contribute, learn from others, and gradually build my skills in both business and data analysis.
+This portfolio includes self-initiated projects that reflect my willingness to learn, my analytical thinking, and my effort to apply data skills to real-world problems.
 
 ---
 
