@@ -27,10 +27,10 @@ This portfolio showcases self-initiated projects that demonstrate my business an
 ## 🏆 Certificates
 
 - 📊 **Introduction to Power BI** — DataCamp (Mar 2026)  
-  [View Certificate](https://github.com/Mvien13/business-analyst-data-portfolio/commit/54969e1c404d52a8a534aeee503581e22320e4d6)
+  [View Certificate](certificates/PBI-certificate.pdf)
 
 - 🗄️ **Exploratory Data Analysis in SQL** — DataCamp (Dec 2025)  
-  [View Certificate]([https://datacamp.com/your-certificate-link-here](https://www.datacamp.com/completed/statement-of-accomplishment/course/b744f8210c82e81c1b47ceaf75847d4823671a9a?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa))
+  [View Certificate](certificates/SQL-certificate.pdf)
 
 ## 📂 Projects
 
