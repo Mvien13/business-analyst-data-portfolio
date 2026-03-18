@@ -27,10 +27,10 @@ This portfolio showcases self-initiated projects that demonstrate my business an
 ## 🏆 Certificates
 
 - 📊 **Introduction to Power BI** — DataCamp (Mar 2026)  
-  [View Certificate](PBI-certificate.pdf)
+  [View Certificate]([https://datacamp.com/your-certificate-link-here](https://www.datacamp.com/completed/statement-of-accomplishment/course/f20bafbc216cd249895a6ce76bf8c07625f53ed8?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa))
 
 - 🗄️ **Exploratory Data Analysis in SQL** — DataCamp (Dec 2025)  
-  [View Certificate](SQL-certificate.pdf)
+  [View Certificate]([https://datacamp.com/your-certificate-link-here](https://www.datacamp.com/completed/statement-of-accomplishment/course/b744f8210c82e81c1b47ceaf75847d4823671a9a?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa))
 
 ## 📂 Projects
 
