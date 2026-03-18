@@ -24,6 +24,14 @@ This portfolio showcases self-initiated projects that demonstrate my business an
 
 ---
 
+## 🏆 Certificates
+
+- 📊 **Introduction to Power BI** — DataCamp (Mar 2026)  
+  [View Certificate](PBI-certificate.pdf)
+
+- 🗄️ **Exploratory Data Analysis in SQL** — DataCamp (Dec 2025)  
+  [View Certificate](SQL-certificate.pdf)
+
 ## 📂 Projects
 
 ### 📊 **Agoda Urgency Message Analysis (Excel)**  
